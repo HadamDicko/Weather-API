@@ -1,2 +1,2 @@
 # Weather-API
-Weather website I made with Openweathermap's API.  
+Basic weather website I created utilizing Openweathermap's API.  
