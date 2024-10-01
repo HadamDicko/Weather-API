@@ -35,3 +35,8 @@ This Weather website retrieves and displays the current weather information base
    
 ### Running the App 
 - Open index.html in your web browser. The app will request permission to access your location and then display the current weather information.
+
+![Screenshot 2024-10-01 at 9 57 56 AM](https://github.com/user-attachments/assets/1bac8fb0-dd7c-43a0-b35b-45a1a998b575)
+
+
+
