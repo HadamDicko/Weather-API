@@ -25,4 +25,13 @@ This Weather website retrieves and displays the current weather information base
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone linkhere
+   git clone https://github.com/HadamDicko/Weather-API/tree/main
+2. Change Directory
+   ```bash
+   cd Weather-API
+3. Replace the placeholder API key in scripts.js with your actual OpenWeatherMap API key:
+   ```bash
+   const api = 'your_api_key_here';
+   
+### Running the App 
+- Open index.html in your web browser. The app will request permission to access your location and then display the current weather information.
